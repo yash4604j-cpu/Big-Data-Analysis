@@ -1,0 +1,7 @@
+Model,CV Status,Training Time (seconds),Task Type,Speed Rating
+Linear Regression,Without CV,15.19,Regression,Fastest
+Linear Regression,With CV,102.28,Regression,Medium
+Logistic Regression,Without CV,169.37,Classification,Medium
+Logistic Regression,With CV,169.37,Classification,Medium
+Random Forest,Without CV,227.36,Regression,Slow
+Random Forest,With CV,463.96,Regression,Slowest

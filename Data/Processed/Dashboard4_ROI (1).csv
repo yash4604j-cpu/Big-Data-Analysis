@@ -1,0 +1,6 @@
+Scenario,Query Time (sec),Monthly Cost (USD),Savings,Notes
+Live Query (No Extracts),100,450,Baseline,Current state
+With Tableau Extracts,15,120,73% reduction,Recommended
+Year 1 Projection,18,145,68% reduction,20% data growth
+Year 3 Projection,28,240,47% reduction,124% data growth
+Year 5 Projection,45,380,16% reduction,273% data growth

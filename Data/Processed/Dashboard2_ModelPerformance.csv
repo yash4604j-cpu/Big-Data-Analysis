@@ -1,0 +1,9 @@
+Model,CV Status,Task Type,Metric,Value,Training Time (s),Rank
+Logistic Regression,not used,Classification,AUC,97%,169.37,2
+Logistic Regression,used,Classification,AUC,97%,237.37,1
+Decision Tree,not used,Classification,AUC,90%,14.73,4
+Decision Tree,used,Classification,AUC,84%,33.07,5
+Linear Regression,not used,Regression,R SQUARE,0.8013,15.19,3
+Linear Regression,used,Regression,R SQUARE,0.8039,102.28,3
+Random Forest,not used,Regression,R SQUARE,0.8345,227.36,2
+Random Forest,used,Regression,R SQUARE,0.8454,463.96,1

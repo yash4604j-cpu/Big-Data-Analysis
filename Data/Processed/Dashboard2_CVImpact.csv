@@ -1,0 +1,5 @@
+Model,Metric,Without CV,With CV,Improvement,Impact
+Random Forest,R²,0.8345,0.8455,+1.31%,Improved Significantly
+Logistic Regression,AUC,0.9651,0.9657,+0.06%,Slight Improvement
+Linear Regression,R²,0.8040,0.8040,0%,No Change
+Decision Tree,AUC,0.9016,0.8389,-6.95%,Degraded

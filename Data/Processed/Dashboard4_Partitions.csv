@@ -1,0 +1,7 @@
+Number of Partitions,Shuffle Data (MB),Memory Pressure,Efficiency,Recommendation
+10,180,High,Inefficient,Increase partitions
+20,120,Medium,Suboptimal,Good for smaller data
+40,65,Low,OPTIMAL,Current setting - best balance
+60,58,Low,Good,Better for >10M records
+80,55,Low,Diminishing,Minimal gain
+100,54,Low,Overkill,Too much overhead

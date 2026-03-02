@@ -1,0 +1,5 @@
+Category,Model,CV Status,Performance,Business Use Case
+Best Classifier,Logistic Regression,With CV,96.57% AUC,Employee Segmentation
+Best Regressor,Random Forest,With CV,R²:0.845 RMSE:$20,316,Budget Planning
+Fastest Model,Linear Regression,Without CV,15.19 seconds,Real-time Predictions
+Most Interpretable,Logistic Regression,Both,Clear Coefficients,Stakeholder Presentations
