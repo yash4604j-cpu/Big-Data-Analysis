@@ -153,6 +153,6 @@ Analyzes computational requirements including training time comparison, scalabil
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nyc-payroll-analytics.git
+git clone https://github.com/yash4604j-cpu/Big-Data-Analysis/tree/main
 ```
 
